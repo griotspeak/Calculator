@@ -9,8 +9,8 @@
 #include <stdio.h>
 
 int main(int argc, const char * argv[]) {
+    printf("this is entirely new!");
     // insert code here...
     printf("Hello, World!\n");
-    printf("All finished.");
     return 0;
 }
